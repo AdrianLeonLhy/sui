@@ -1,2 +1,0 @@
-include readme.rst LICENSE.txt requirements.txt
-recursive-include sui *
